@@ -90,13 +90,13 @@ I'm a Final Year Computer Science student passionate about building scalable web
 ## 🌐 Connect With Me
 
 LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN
+https://www.linkedin.com/in/ikumarankit18/
 
 Portfolio:
-https://YOUR_PORTFOLIO
+https://kumarankit-dev-portfolio.vercel.app/
 
 Email:
-your@email.com
+kumarankit993888@email.com
 
 ---
 
