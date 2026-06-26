@@ -1,6 +1,8 @@
-# Hi there 👋 I'm Ankit Kumar
+<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 
-### 🚀 Full Stack Web Developer | MERN Stack Enthusiast
+<h3 align="center">
+Full Stack Web Developer | MERN Stack Developer
+</h3>
 
 I'm a Final Year Computer Science student passionate about building scalable web applications and continuously learning modern technologies.
 
