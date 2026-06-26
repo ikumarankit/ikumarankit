@@ -1,12 +1,14 @@
+<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
+
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Backend+Developer;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;AI+Enthusiast;Always+Learning+New+Things"/>
 
 </p>
 
-I'm a Final Year Computer Science student passionate about building scalable web applications and continuously learning modern technologies.
+I'm a Final Year Computer Science student passionate about building scalable web applications , Artificial Intelligence and continuously learning modern technologies.
 
-- 🌱 Currently learning **Advanced MERN Stack**
+- 🌱 Currently learning **MERN Stack**
 - 💻 Working on Full Stack Projects
 - 🚀 Interested in Backend Development
 - 📚 Exploring System Design & DSA
@@ -29,7 +31,6 @@ I'm a Final Year Computer Science student passionate about building scalable web
 ### Frontend
 
 - React.js
-- Vite
 - HTML
 - CSS
 - Bootstrap
@@ -48,6 +49,7 @@ I'm a Final Year Computer Science student passionate about building scalable web
 
 - MongoDB
 - MongoDB Atlas
+- MySQL
 
 ---
 
@@ -55,8 +57,6 @@ I'm a Final Year Computer Science student passionate about building scalable web
 
 - Git
 - GitHub
-- VS Code
-- Postman
 - Render
 - Vercel
 
