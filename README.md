@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
+<p align="center">
 
-<h3 align="center">
-Full Stack Web Developer | MERN Stack Developer
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Backend+Developer;Always+Learning+New+Things"/>
+
+</p>
 
 I'm a Final Year Computer Science student passionate about building scalable web applications and continuously learning modern technologies.
 
